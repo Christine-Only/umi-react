@@ -39,5 +39,5 @@ export default defineConfig({
       component: '@/pages/404' // 404路由组件
     }
   ],
-  fastRefresh: {},
+  fastRefresh: {}, // 启用快速刷新
 });
